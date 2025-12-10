@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "A": "Berlin",
+        "B": "Madrid",
+        "C": "Paris",
+        "D": "London",
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "A": "Earth",
+        "B": "Mars",
+        "C": "Jupiter",
+        "D": "Venus",
+        "answer": "B"
+    },
+    {
+        "question": "Who wrote the play Hamlet?",
+        "A": "Charles Dickens",
+        "B": "William Shakespeare",
+        "C": "Mark Twain",
+        "D": "Jane Austen",
+        "answer": "B"
+    },
+    {
+        "question": "What is the most populated city in Turkey?",
+        "A": "Ankara",
+        "B": "Izmir",
+        "C": "Istanbul",
+        "D": "Bursa",
+        "answer": "C"
+    },
+    {
+        "question": "At what temperature does water freeze?",
+        "A": "0C",
+        "B": "100C",
+        "C": "-10C",
+        "D": "10C",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is not a programming language?",
+        "A": "Python",
+        "B": "Java",
+        "C": "HTML",
+        "D": "C++",
+        "answer": "C"
+    },
+    {
+        "question": "In what year was Ataturk born?",
+        "A": "1881",
+        "B": "1923",
+        "C": "1919",
+        "D": "1938",
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is the longest river?",
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Euphrates",
+        "D": "Tigris",
+        "answer": "B"
+    },
+    {
+        "question": "What is the name of the national anthem of Turkey?",
+        "A": "Izmir March",
+        "B": "Tenth Year March",
+        "C": "Independence March",
+        "D": "Youth March",
+        "answer": "C"
+    },
+    {
+        "question": "How many hearts does the human body have?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "answer": "A"
+    },
+    {
+        "question": "Which one is a chemical element?",
+        "A": "Water",
+        "B": "Salt",
+        "C": "Oxygen",
+        "D": "Carbonate",
+        "answer": "C"
+    },
+    {
+        "question": "What is the approximate value of Pi in mathematics?",
+        "A": "2.14",
+        "B": "3.14",
+        "C": "4.13",
+        "D": "1.34",
+        "answer": "B"
+    },
+    {
+        "question": "When was the Republic proclaimed?",
+        "A": "1919",
+        "B": "1921",
+        "C": "1923",
+        "D": "1938",
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following animals is not a mammal?",
+        "A": "Cat",
+        "B": "Dog",
+        "C": "Whale",
+        "D": "Frog",
+        "answer": "D"
+    },
+    {
+        "question": "What is the largest planet in the solar system?",
+        "A": "Mars",
+        "B": "Saturn",
+        "C": "Jupiter",
+        "D": "Venus",
+        "answer": "C"
+    },
+    {
+        "question": "Which country is not located in Asia?",
+        "A": "India",
+        "B": "China",
+        "C": "Egypt",
+        "D": "Japan",
+        "answer": "C"
+    },
+    {
+        "question": "How many meters are there in a kilometer?",
+        "A": "100",
+        "B": "1000",
+        "C": "10",
+        "D": "10000",
+        "answer": "B"
+    },
+    {
+        "question": "Who discovered electricity?",
+        "A": "Albert Einstein",
+        "B": "Thomas Edison",
+        "C": "Isaac Newton",
+        "D": "Nikola Tesla",
+        "answer": "B"
+    },
+    {
+        "question": "What is the name of the Earth's natural satellite?",
+        "A": "Venus",
+        "B": "Mars",
+        "C": "Moon",
+        "D": "Sun",
+        "answer": "C"
+    },
+    {
+        "question": "Which one is a software development tool?",
+        "A": "Photoshop",
+        "B": "Visual Studio",
+        "C": "AutoCAD",
+        "D": "Excel",
+        "answer": "B"
+    }
+]
